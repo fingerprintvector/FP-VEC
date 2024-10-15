@@ -1,6 +1,6 @@
 # FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition
 ### [FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition](https://arxiv.org/abs/2409.08846)
-Zhenhua Xu<sup>1</sup>，Wenpeng Xing<sup>2</sup>，Zhebo Wang<sup>2</sup>，Chang Hu<sup>3</sup>，Jie Chen<sup>4</sup>，Meng Han<sup>2</sup>
+Zhenhua Xu<sup>1</sup>，Wenpeng Xing<sup>2</sup>，Zhebo Wang<sup>1</sup>，Chang Hu<sup>3</sup>，Jie Chen<sup>4</sup>，Meng Han<sup>2</sup>
 
 <sup>1</sup>School of Software Technology，Zhejiang University Hangzhou，China
 
