@@ -7,6 +7,7 @@ Zhenhua Xu<sup>1</sup>，Wenpeng Xing<sup>2</sup>，Zhebo Wang<sup>2</sup>，Cha
 <sup>2</sup>Binjiang Institute of Zhejiang University，Zhejiang University Hangzhou，China
 
 <sup>3</sup>School of Communication Engineering，Hangzhou Dianzi University Hangzhou，China  
+
 <sup>4</sup>Department of Computer Science Hong Kong Baptist University，Hong Kong SAR.
 
 [Project Page](https://fingerprintvector.github.io/)
