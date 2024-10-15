@@ -42,7 +42,7 @@ You can simply run `python prepare_models.py` to download those datasets.
 > WARN: For Llama-2-7b-hf, gpt2, gpt2-medium, and gpt2-large you must to put your own token to authorize
 >
 
-### Step 1. Fingerprinting (Section 3.3)
+### Step 1. Fingerprinting
 You need to create a config file by setting which base model you want to fingerprinting and where you want to store the traning weights with **fingerprint dataset**, an example is showed in `train_args/sft/full/gpt2-large/gpt2-large-fp30-seed42-sft-full.json`
 
 You need to choose a config file for trainning by updating variant `train_args_file` and switch the `cmd` to `finetune_cmd` and just run the scripts:
